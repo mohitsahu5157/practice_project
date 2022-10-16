@@ -1,0 +1,2 @@
+# practice_project
+GIT_Maven_Declarative pipeline/Jenkinsfile_Dockerimage_DockerPush_Deploy
